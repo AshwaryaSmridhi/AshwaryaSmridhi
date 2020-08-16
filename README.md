@@ -15,7 +15,6 @@ I live to solve problems. I am describing some of the projects I am doing or asp
 - Difference between CPU burst and IOPS burst : Learnt this the hard way but it turns out
 - How to deploy a Rpi camera on Jetson nano
 - Make Go lambda to trigger an automatic phone call
-- 
 
 <!--
 **AshwaryaSmridhi/AshwaryaSmridhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
