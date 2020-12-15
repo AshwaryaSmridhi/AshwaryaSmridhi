@@ -8,7 +8,7 @@ I live to solve problems. I am describing some of the projects I am doing or asp
 1. MotionAI
 2. Cheaper version of https://noiseaware.io/ for Aussie short term rentals - Probably deploy application using flutter and the hardware will contain a sonic sensor and RPi 4. Mostly because I am really excited to work with Rpi 4 but I am sure the same solution can be made to work with Rpi zero.
 3. Homecare services for Indian market
-4. Quality of life improvement
+4. Global platform for small Indian artists(carpenters, furniture makers, painters, sculpture artists, jwellery makers, textile experts): Find under-appreciated artists and give them a global platform to sell their goods
 
 #### Learnings 🌱
 - AWS S3 and S3 glacier : Recently worked with a friend on saving daily backups onto S3 and creating policies to transfer that from S3 to S3 glacier which turns out is really cheap. 
