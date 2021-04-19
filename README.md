@@ -10,12 +10,6 @@ I live to solve problems. I am describing some of the projects I am doing or asp
 3. Homecare services for disability and aged care.
 4. Unseen Market/Local Gems: Global platform for small artists(carpenters, furniture makers, painters, sculpture artists, jwellery makers, textile experts): Find under-appreciated artists and give them a global platform to sell their goods
 
-#### Recent Learnings 🌱
-- AWS S3 and S3 glacier : Recently worked with a friend on saving daily backups onto S3 and creating policies to transfer that from S3 to S3 glacier which turns out is really cheap. 
-- Difference between CPU burst and IOPS burst : Learnt this the hard way but it turns out
-- How to deploy a Rpi camera on Jetson nano
-- Make Go lambda to trigger an automatic phone call
-
 <!--
 **AshwaryaSmridhi/AshwaryaSmridhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
