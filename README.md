@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer that loves creating software for daily problems. I currently work with 99designs, an organization who firmly believes that creativity has no borders. We work towards a common goal of being a global creative platform for design needs. Apart from working with these awesome group of people I also have my personal vision 🔭 to contribute towards a better world. Here I am going to describe my personal projects and my current learnings.
+I am a software engineer that loves creating software for daily problems. I currently work with SEEK. Apart from working with these awesome group of people I also have my personal vision 🔭 to contribute towards a better world. Here I am going to describe my personal projects and my current learnings.
 
 #### Projects in progress ⚡
 I live to solve problems. I am describing some of the projects I am doing or aspire to do in future and if there is someone out there who would like to collaborate with me on this I would love that.
