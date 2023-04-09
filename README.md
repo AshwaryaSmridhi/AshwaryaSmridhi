@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer that loves creating software for daily problems. I currently work with SEEK. Apart from working with these awesome group of people I also have my personal vision 🔭 to contribute towards a better world. Here I am going to describe my personal projects and my current learnings.
+I am a software engineer that loves creating software for daily problems. I currently work with SEEK. Apart from working with these awesome group of people I also have my personal vision 🔭 to contribute towards a better world. In the recent days I have gotten really into photography so if someone is interested in D750 low light adventures please reach out. Here I am going to describe my personal projects and my current learnings.
 
 #### Projects in progress ⚡
 I live to solve problems. I am describing some of the projects I am doing or aspire to do in future and if there is someone out there who would like to collaborate with me on this I would love that.
